@@ -1,0 +1,11 @@
+F:\ITI\EF(Entity FW)\ADO2EFcore\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+F:\ITI\EF(Entity FW)\ADO2EFcore\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+F:\ITI\EF(Entity FW)\ADO2EFcore\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+F:\ITI\EF(Entity FW)\ADO2EFcore\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\EF(Entity FW)\ADO2EFcore\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+F:\ITI\EF(Entity FW)\ADO2EFcore\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+F:\ITI\EF(Entity FW)\ADO2EFcore\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+F:\ITI\EF(Entity FW)\ADO2EFcore\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+F:\ITI\EF(Entity FW)\ADO2EFcore\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+F:\ITI\EF(Entity FW)\ADO2EFcore\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+F:\ITI\EF(Entity FW)\ADO2EFcore\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
